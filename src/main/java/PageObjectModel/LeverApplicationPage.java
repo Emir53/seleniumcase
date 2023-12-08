@@ -20,7 +20,7 @@ public class LeverApplicationPage extends AbstractClass {
 
 
 
-    public void scheckElements(){
+    public void checkElements(){
         checkIfElementExist(applyForThisJobButton);
     }
 
