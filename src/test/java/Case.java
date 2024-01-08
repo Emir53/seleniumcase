@@ -12,6 +12,7 @@ CareersPage careersPage;
 CareersQualityAssurancePage careersQualityAssurancePage;
 QualityAssuranceJobsPage qualityAssuranceJobsPage;
 LeverApplicationPage leverApplicationPage;
+// case page
 
     @Before
     public void background(){
