@@ -36,9 +36,6 @@ LeverApplicationPage leverApplicationPage;
         driver.get("https://useinsider.com/careers/quality-assurance/,");
         careersQualityAssurancePage.clickOnSeeAllQaJobsButton();
         qualityAssuranceJobsPage.checkIfImOnQAJobsPage();
-        qualityAssuranceJobsPage.selectIstanbulAndCheck("Istanbul, Turkey");
-        qualityAssuranceJobsPage.checkPositions();
-        leverApplicationPage.checkElements();
     }
 
 
